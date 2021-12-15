@@ -2,4 +2,4 @@
 - 👀 I’m interested in AI, Data Analysis, Biomedical Engineering
 - 🌱 I’m currently learning Flask, Keras, sciit-learn, pandas
 - 💞️ I’m looking to collaborate on any project's involving Biomedical Engineering, or interesting applications of technology to healthcare.
-- 📫 How to reach me: <a href="www.twitter.com/CockburnCallum"> DM me on Twitter</a>
+- 📫 How to reach me: <a href="https://www.twitter.com/CockburnCallum"> DM me on Twitter</a>
